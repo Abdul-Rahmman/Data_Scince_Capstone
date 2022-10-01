@@ -1,5 +1,5 @@
 # Data_Scince_Capstone
-This is a Data Scince Nano Degree Capstone Project for Udacity 
+This Project is part of Udacity course submitions:Data Scince Nano Degree Capstone Project for Udacity.
 
 # Project Motivation
 
