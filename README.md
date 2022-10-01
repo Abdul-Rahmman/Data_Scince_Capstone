@@ -18,8 +18,6 @@ and the final and most important question:<br/>
 <strong>MQ- Recommend bundles to increase sales?</strong>
 
 
-.
-
 
 # Data Descriptions
 
