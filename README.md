@@ -40,15 +40,15 @@ There is 9,465 transaction Issued between 2016–2017.
 
 # Acknowledgments
 Images on blog:
-https://tse1.mm.bing.net/th?id=OIP.M5hLf51-jAlTC6AGDBLaJgHaFj&pid=Api
-https://annalyzin.files.wordpress.com/2016/03/association-rule-support-eqn.png?w=248&h=68
-https://annalyzin.files.wordpress.com/2016/04/association-rule-support-table.png?w=503&h=447
-https://annalyzin.files.wordpress.com/2016/03/association-rule-confidence-eqn.png?w=527&h=77
-https://annalyzin.files.wordpress.com/2016/03/association-rule-lift-eqn.png?w=566&h=80
+https://tse1.mm.bing.net/th?id=OIP.M5hLf51-jAlTC6AGDBLaJgHaFj&pid=Api.
+https://annalyzin.files.wordpress.com/2016/03/association-rule-support-eqn.png?w=248&h=68.
+https://annalyzin.files.wordpress.com/2016/04/association-rule-support-table.png?w=503&h=447.
+https://annalyzin.files.wordpress.com/2016/03/association-rule-confidence-eqn.png?w=527&h=77.
+https://annalyzin.files.wordpress.com/2016/03/association-rule-lift-eqn.png?w=566&h=80.
 
 
 Data Source on Kaggle:
-https://www.kaggle.com/mittalvasu95/the-bread-basket
+https://www.kaggle.com/mittalvasu95/the-bread-basket.
 
 # Results
 
