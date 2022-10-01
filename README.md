@@ -11,9 +11,7 @@ Q2- Top 10 most ordered products?<br/>
 Q3- Which time period has more transactions?<br/>
 Q4- Which day type has more transaction?<br/>
 Q5- What customers preffer to buy on weekends morning?<br/>
-Q6- Which month has more sales?<br/>    
-</Strong>
-<br/><br/>
+Q6- Which month has more sales?<br/>
 and the final and most important question:<br/>
 <strong>MQ- Recommend bundles to increase sales?</strong>
 
