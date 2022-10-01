@@ -4,7 +4,7 @@ This Project is part of Udacity course submitions: Data Scince Nano Degree Capst
 # Project Motivation
 In this project we are working on 'The Bread Basket' data set,<br/>
 The dataset belongs to "The Bread Basket" a bakery located in Edinburgh,<br/>
-We applied CRISP-DM process to answer on these questions:
+We applied Apriori Machine learning algorithm and CRISP-DM process to answer on these questions:
 
 Q1- How many items are there?<br/>
 Q2- Top 10 most ordered products?<br/>
